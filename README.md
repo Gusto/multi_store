@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/Gusto/multi_store.svg?style=svg)](https://circleci.com/gh/Gusto/multi_store)
+
 # MultiStore
 
 MultiStore allows you to delegate to multiple ActiveSupport cache stores.
