@@ -1,3 +1,7 @@
+**WARNING**
+
+**This repo is no longer actively maintained. Use at your own discretion**
+
 [![CircleCI](https://circleci.com/gh/Gusto/multi_store.svg?style=svg)](https://circleci.com/gh/Gusto/multi_store)
 
 # MultiStore
